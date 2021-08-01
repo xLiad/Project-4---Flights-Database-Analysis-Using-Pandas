@@ -1,3 +1,3 @@
 # Project - 4 Flights Database Analysis Using Pandas
 
-The presentation of the analysis is used with HTML file 
+This project is an analysis of Flight database using pandas libary in Python
